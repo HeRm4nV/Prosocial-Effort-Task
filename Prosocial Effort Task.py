@@ -1047,9 +1047,6 @@ def main():
     shuffle(self_combinations)
     shuffle(other_combinations)
 
-    task(self_combinations, other_combinations, blocks_number, block_type, max_answer_time, file = dfile, effort_table = effort_table)
-    dfile.flush()
-
     # Testing Trials for all effort levels
     for _ in range(practice_iterations):
         for effort_level in effort_levels_recalculated:
