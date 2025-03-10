@@ -1,0 +1,6 @@
+NivelEsfuerzo,NivelReward,Condición,Decisión,CuadrosClickeados,ÉxitoTarea,CréditosGanados,TiempoReacciónDecisión,TiempoReacciónPrimerCuadro,TiempoReacciónÚltimoCuadro
+80,4,Other,task,15,True,4,1511,514,4259
+30,7,Other,task,4,False,0,2250,706,None
+80,5,Other,resting,4,True,1,1894,None,None
+80,5,Other,no decision,4,False,0,None,None,None
+70,7,Self,task,10,False,0,5182,649,None
